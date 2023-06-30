@@ -1,1 +1,1 @@
-Projetos relevantes para meu objetivo profissinal feitos durante minha graduação em Sistemas de Informação.
+Projetos desenvolvidos durante minha graduação em Sistemas de Informação.
