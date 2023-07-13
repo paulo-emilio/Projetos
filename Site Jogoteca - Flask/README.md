@@ -3,4 +3,5 @@
 
 Prints do site na pasta "Prints de telas"
 
-![alt text]([image URL](https://github.com/paulo-emilio/Projetos/blob/main/Site%20Jogoteca%20-%20Flask/Prints%20de%20telas/Delete.jpeg)https://github.com/paulo-emilio/Projetos/blob/main/Site%20Jogoteca%20-%20Flask/Prints%20de%20telas/Delete.jpeg)
+![Delete](https://github.com/paulo-emilio/Projetos/blob/main/Site%20Jogoteca%20-%20Flask/Prints%20de%20telas/Delete.jpeg)
+
