@@ -1,4 +1,4 @@
-Projeto feito pelo Ânima Hub sobre Computação Quântica. Esta é minha parte do projeto onde falo sobre a Linguagem Julia.
+Projeto feito pelo Ânima Hub sobre Computação Quântica. A parte do projeto do meu grupo onde fui líder falamos sobre a Linguagem Julia em relação a Computação Quântica.
 
 Artigo, eBook e Apresentação.
 
