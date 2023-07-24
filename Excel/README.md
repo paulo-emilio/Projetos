@@ -1,5 +1,5 @@
 # Formacao-Excel-Alura
- Projetos feitos durante a 'Formação Excel' pela plataforma da Alura <https://cursos.alura.com.br/formacao-excel>
+ Projetos feitos durante a 'Formação Excel' pela plataforma da Alura <https://github.com/paulo-emilio/Formacao-Excel-Alura>
 
 ![](https://github.com/paulo-emilio/Formacao-Excel-Alura/blob/main/Excel%20-%20tabelas%20dinamicas%20e%20dashboards/prints/Dashboard.png)
 
