@@ -12,10 +12,10 @@ Links para acesso aos Dashboards:
 
 [Dashboard - Relatório de Vendas](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
-[![](https://github.com/paulo-emilio/Projetos/blob/main/Power%20BI/Clube%20do%20Livro/imagem_2023-07-20_100453863.png)](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](https://github.com/paulo-emilio/Projetos/blob/main/An%C3%A1lise%20de%20dados%20-%20Power%20BI/Clube%20do%20Livro/imagem_2023-07-20_100453863.png)](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
-[![](https://github.com/paulo-emilio/Projetos/blob/main/Power%20BI/Olist/imagem_2023-07-20_100648638.png)](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](https://github.com/paulo-emilio/Projetos/blob/main/An%C3%A1lise%20de%20dados%20-%20Power%20BI/Olist/imagem_2023-07-20_100648638.png)](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
-[![](https://github.com/paulo-emilio/Projetos/blob/main/Power%20BI/People%20Analytics/imagem_2023-07-20_092053283.png)](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](https://github.com/paulo-emilio/Projetos/blob/main/An%C3%A1lise%20de%20dados%20-%20Power%20BI/People%20Analytics/imagem_2023-07-20_092053283.png)](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
-[![](https://github.com/paulo-emilio/Projetos/blob/main/Power%20BI/Relat%C3%B3rio%20de%20Vendas/imagem_2023-07-20_100922356.png)](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](https://github.com/paulo-emilio/Projetos/blob/main/An%C3%A1lise%20de%20dados%20-%20Power%20BI/Relat%C3%B3rio%20de%20Vendas/imagem_2023-07-20_100922356.png)](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
