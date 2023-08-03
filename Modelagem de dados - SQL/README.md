@@ -1,6 +1,6 @@
 Projeto feito no  curso 'Formação modelagem de dados' feito pela plataforma da Alura
 
-<https://cursos.alura.com.br/formacao-modelagem-dados>
+[Arquivos do curso](https://github.com/paulo-emilio/Foramacao-Modelagem-de-Dados-Alura)
 
 ![logico](https://github.com/paulo-emilio/Projetos/blob/main/Modelagem%20de%20dados%20-%20SQL/Modelo%20L%C3%B3gico%20-%20Clube%20do%20Livro.jpeg)
 
