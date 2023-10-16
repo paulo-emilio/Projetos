@@ -8,4 +8,4 @@
 - *Pós-graduação Data Science*
 - *Projetos independentes*
 
-![](https://github.com/paulo-emilio/Projetos/blob/main/Imagem%20capa.png#vitrinedev)
+![](capa.png#vitrinedev)
