@@ -8,4 +8,4 @@
 - *Pós-graduação Data Science*
 - *Projetos independentes*
 
-![](capa.png#vitrinedev)
+![](capa.jpg#vitrinedev)
