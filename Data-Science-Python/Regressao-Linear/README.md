@@ -1,6 +1,6 @@
-# Pesquisa Nacional por Amostra de Domicílios - 2015
+# Regressão Linear - HousePricing
 
-## Este projeto utiliza o conjunto de dados da PNAD 2015 para explorar informações relevantes e responder a questões específicas, destacando a análise de renda, a probabilidade de selecionar grupos com determinada composição e a estimativa do tamanho da amostra necessário para atingir diferentes níveis de confiança. 
-## Tecnologias: Python, Pandas, Numpy, Scipy.
+## Neste projeto, criei um modelo de machine learning usando a técnica de Regressão Linear para fazer previsões sobre os preços de imóveis com base em um conjunto de características conhecidas dos imóveis. Inicialmente, coletei dados de um conjunto disponível no Kaggle e criei uma amostra representativa para facilitar o desenvolvimento do modelo.
+## Tecnologias: Python, Pandas, Numpy, Seaborn, Matplotlib, Scipy, scikit-learn.
 
-![](prints/print.png)
+[![](prints/print.png)](https://github.com/paulo-emilio/Projetos/blob/main/Data-Science-Python/Regressao-Linear/Projeto/Regressao-Linear-HousePricing.ipynb)
