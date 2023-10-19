@@ -4,4 +4,4 @@ Artigo, eBook e Apresentação.
 
 [Apresentação YouTube](https://youtu.be/Et3M-wPef6k)
 
-![print](imagem_2023-07-13_132228194.png)
+![print](print/imagem_2023-07-13_132228194.png)
