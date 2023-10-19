@@ -2,6 +2,8 @@ Durante o curso, participei de projetos que envolviam o uso de Java, HTML, CSS, 
 
 Entre eles, destaco um site para uma rede de hotéis e um e-commerce altamente funcional.
 
-Além desse, existem esses projetos que consegui salvar: 
+Além desses, existem esses projetos que consegui salvar: 
 
-[Projeto Programção Quântica - Linguagem Julia](../Programacao_Quantica-Linguagem_Julia)
+[Projeto Programação Quântica - Linguagem Julia](../Programacao_Quantica-Linguagem_Julia)
+
+[Projeto "Vota Easy" feito com SCRUM](../Vota_Easy-SCRUM)
