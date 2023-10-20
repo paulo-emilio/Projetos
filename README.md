@@ -1,5 +1,11 @@
 # Meus Projetos
 
+
+| :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
+| -------------  | --- |
+| :sparkles: Nome        | **Projetos Academicos Variados**
+| :label: Tecnologias | html, css, js, julia, scrum
+
 **Portfólio diversificado de projetos desenvolvidos durante:**
 
 - *Graduação em Sistemas de Informação*
