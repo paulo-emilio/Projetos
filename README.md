@@ -3,7 +3,7 @@
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
-| :sparkles: Nome        | **Projetos Acadêmicos Variados**
+| :sparkles: Nome        | **Projetos Acadêmicos Diversificados**
 | :label: Tecnologias | html, css, js, julia, scrum
 
 **Portfólio diversificado de projetos desenvolvidos durante:**
